@@ -1,0 +1,14 @@
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Valid_Parentheses/bin/Debug/net9.0/Valid_Parentheses
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Valid_Parentheses/bin/Debug/net9.0/Valid_Parentheses.deps.json
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Valid_Parentheses/bin/Debug/net9.0/Valid_Parentheses.runtimeconfig.json
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Valid_Parentheses/bin/Debug/net9.0/Valid_Parentheses.dll
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Valid_Parentheses/bin/Debug/net9.0/Valid_Parentheses.pdb
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Valid_Parentheses/obj/Debug/net9.0/Valid_Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Valid_Parentheses/obj/Debug/net9.0/Valid_Parentheses.AssemblyInfoInputs.cache
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Valid_Parentheses/obj/Debug/net9.0/Valid_Parentheses.AssemblyInfo.cs
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Valid_Parentheses/obj/Debug/net9.0/Valid_Parentheses.csproj.CoreCompileInputs.cache
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Valid_Parentheses/obj/Debug/net9.0/Valid_Parentheses.dll
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Valid_Parentheses/obj/Debug/net9.0/refint/Valid_Parentheses.dll
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Valid_Parentheses/obj/Debug/net9.0/Valid_Parentheses.pdb
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Valid_Parentheses/obj/Debug/net9.0/Valid_Parentheses.genruntimeconfig.cache
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Valid_Parentheses/obj/Debug/net9.0/ref/Valid_Parentheses.dll
