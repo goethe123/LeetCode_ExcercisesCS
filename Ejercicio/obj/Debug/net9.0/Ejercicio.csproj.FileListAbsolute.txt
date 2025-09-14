@@ -1,0 +1,15 @@
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ejercicio/bin/Debug/net9.0/Ejercicio
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ejercicio/bin/Debug/net9.0/Ejercicio.deps.json
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ejercicio/bin/Debug/net9.0/Ejercicio.runtimeconfig.json
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ejercicio/bin/Debug/net9.0/Ejercicio.dll
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ejercicio/bin/Debug/net9.0/Ejercicio.pdb
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ejercicio/obj/Debug/net9.0/Ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ejercicio/obj/Debug/net9.0/Ejercicio.AssemblyInfoInputs.cache
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ejercicio/obj/Debug/net9.0/Ejercicio.AssemblyInfo.cs
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ejercicio/obj/Debug/net9.0/Ejercicio.csproj.CoreCompileInputs.cache
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ejercicio/obj/Debug/net9.0/Ejercicio.sourcelink.json
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ejercicio/obj/Debug/net9.0/Ejercicio.dll
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ejercicio/obj/Debug/net9.0/refint/Ejercicio.dll
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ejercicio/obj/Debug/net9.0/Ejercicio.pdb
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ejercicio/obj/Debug/net9.0/Ejercicio.genruntimeconfig.cache
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ejercicio/obj/Debug/net9.0/ref/Ejercicio.dll

@@ -12,3 +12,4 @@
 /Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Valid_Parentheses/obj/Debug/net9.0/Valid_Parentheses.pdb
 /Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Valid_Parentheses/obj/Debug/net9.0/Valid_Parentheses.genruntimeconfig.cache
 /Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Valid_Parentheses/obj/Debug/net9.0/ref/Valid_Parentheses.dll
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Valid_Parentheses/obj/Debug/net9.0/Valid_Parentheses.sourcelink.json

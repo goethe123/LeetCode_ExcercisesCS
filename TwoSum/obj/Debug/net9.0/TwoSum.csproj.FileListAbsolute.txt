@@ -1,0 +1,15 @@
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/TwoSum/bin/Debug/net9.0/TwoSum
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/TwoSum/bin/Debug/net9.0/TwoSum.deps.json
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/TwoSum/bin/Debug/net9.0/TwoSum.runtimeconfig.json
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/TwoSum/bin/Debug/net9.0/TwoSum.dll
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/TwoSum/bin/Debug/net9.0/TwoSum.pdb
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/TwoSum/obj/Debug/net9.0/TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/TwoSum/obj/Debug/net9.0/TwoSum.AssemblyInfoInputs.cache
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/TwoSum/obj/Debug/net9.0/TwoSum.AssemblyInfo.cs
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/TwoSum/obj/Debug/net9.0/TwoSum.csproj.CoreCompileInputs.cache
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/TwoSum/obj/Debug/net9.0/TwoSum.sourcelink.json
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/TwoSum/obj/Debug/net9.0/TwoSum.dll
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/TwoSum/obj/Debug/net9.0/refint/TwoSum.dll
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/TwoSum/obj/Debug/net9.0/TwoSum.pdb
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/TwoSum/obj/Debug/net9.0/TwoSum.genruntimeconfig.cache
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/TwoSum/obj/Debug/net9.0/ref/TwoSum.dll
