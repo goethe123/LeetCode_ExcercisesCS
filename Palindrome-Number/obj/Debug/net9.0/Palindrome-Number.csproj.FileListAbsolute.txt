@@ -1,0 +1,15 @@
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Palindrome-Number/bin/Debug/net9.0/Palindrome-Number
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Palindrome-Number/bin/Debug/net9.0/Palindrome-Number.deps.json
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Palindrome-Number/bin/Debug/net9.0/Palindrome-Number.runtimeconfig.json
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Palindrome-Number/bin/Debug/net9.0/Palindrome-Number.dll
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Palindrome-Number/bin/Debug/net9.0/Palindrome-Number.pdb
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Palindrome-Number/obj/Debug/net9.0/Palindrome-Number.GeneratedMSBuildEditorConfig.editorconfig
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Palindrome-Number/obj/Debug/net9.0/Palindrome-Number.AssemblyInfoInputs.cache
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Palindrome-Number/obj/Debug/net9.0/Palindrome-Number.AssemblyInfo.cs
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Palindrome-Number/obj/Debug/net9.0/Palindrome-Number.csproj.CoreCompileInputs.cache
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Palindrome-Number/obj/Debug/net9.0/Palindrome-Number.sourcelink.json
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Palindrome-Number/obj/Debug/net9.0/Palindrome-Number.dll
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Palindrome-Number/obj/Debug/net9.0/refint/Palindrome-Number.dll
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Palindrome-Number/obj/Debug/net9.0/Palindrome-Number.pdb
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Palindrome-Number/obj/Debug/net9.0/Palindrome-Number.genruntimeconfig.cache
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Palindrome-Number/obj/Debug/net9.0/ref/Palindrome-Number.dll
