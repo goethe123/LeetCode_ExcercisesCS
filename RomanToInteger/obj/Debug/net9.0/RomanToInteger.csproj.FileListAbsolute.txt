@@ -1,0 +1,15 @@
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/RomanToInteger/bin/Debug/net9.0/RomanToInteger
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/RomanToInteger/bin/Debug/net9.0/RomanToInteger.deps.json
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/RomanToInteger/bin/Debug/net9.0/RomanToInteger.runtimeconfig.json
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/RomanToInteger/bin/Debug/net9.0/RomanToInteger.dll
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/RomanToInteger/bin/Debug/net9.0/RomanToInteger.pdb
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/RomanToInteger/obj/Debug/net9.0/RomanToInteger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/RomanToInteger/obj/Debug/net9.0/RomanToInteger.AssemblyInfoInputs.cache
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/RomanToInteger/obj/Debug/net9.0/RomanToInteger.AssemblyInfo.cs
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/RomanToInteger/obj/Debug/net9.0/RomanToInteger.csproj.CoreCompileInputs.cache
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/RomanToInteger/obj/Debug/net9.0/RomanToInteger.sourcelink.json
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/RomanToInteger/obj/Debug/net9.0/RomanToInteger.dll
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/RomanToInteger/obj/Debug/net9.0/refint/RomanToInteger.dll
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/RomanToInteger/obj/Debug/net9.0/RomanToInteger.pdb
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/RomanToInteger/obj/Debug/net9.0/RomanToInteger.genruntimeconfig.cache
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/RomanToInteger/obj/Debug/net9.0/ref/RomanToInteger.dll
