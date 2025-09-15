@@ -1,0 +1,15 @@
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/longest_Common_Prefix/bin/Debug/net9.0/longest_Common_Prefix
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/longest_Common_Prefix/bin/Debug/net9.0/longest_Common_Prefix.deps.json
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/longest_Common_Prefix/bin/Debug/net9.0/longest_Common_Prefix.runtimeconfig.json
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/longest_Common_Prefix/bin/Debug/net9.0/longest_Common_Prefix.dll
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/longest_Common_Prefix/bin/Debug/net9.0/longest_Common_Prefix.pdb
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/longest_Common_Prefix/obj/Debug/net9.0/longest_Common_Prefix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/longest_Common_Prefix/obj/Debug/net9.0/longest_Common_Prefix.AssemblyInfoInputs.cache
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/longest_Common_Prefix/obj/Debug/net9.0/longest_Common_Prefix.AssemblyInfo.cs
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/longest_Common_Prefix/obj/Debug/net9.0/longest_Common_Prefix.csproj.CoreCompileInputs.cache
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/longest_Common_Prefix/obj/Debug/net9.0/longest_Common_Prefix.sourcelink.json
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/longest_Common_Prefix/obj/Debug/net9.0/longest_Common_Prefix.dll
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/longest_Common_Prefix/obj/Debug/net9.0/refint/longest_Common_Prefix.dll
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/longest_Common_Prefix/obj/Debug/net9.0/longest_Common_Prefix.pdb
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/longest_Common_Prefix/obj/Debug/net9.0/longest_Common_Prefix.genruntimeconfig.cache
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/longest_Common_Prefix/obj/Debug/net9.0/ref/longest_Common_Prefix.dll
