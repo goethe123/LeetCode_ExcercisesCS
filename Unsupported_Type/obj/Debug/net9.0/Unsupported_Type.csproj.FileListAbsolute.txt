@@ -1,0 +1,15 @@
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Unsupported_Type/obj/Debug/net9.0/Unsupported_Type.GeneratedMSBuildEditorConfig.editorconfig
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Unsupported_Type/obj/Debug/net9.0/Unsupported_Type.AssemblyInfoInputs.cache
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Unsupported_Type/obj/Debug/net9.0/Unsupported_Type.AssemblyInfo.cs
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Unsupported_Type/obj/Debug/net9.0/Unsupported_Type.csproj.CoreCompileInputs.cache
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Unsupported_Type/obj/Debug/net9.0/Unsupported_Type.sourcelink.json
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Unsupported_Type/bin/Debug/net9.0/Unsupported_Type
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Unsupported_Type/bin/Debug/net9.0/Unsupported_Type.deps.json
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Unsupported_Type/bin/Debug/net9.0/Unsupported_Type.runtimeconfig.json
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Unsupported_Type/bin/Debug/net9.0/Unsupported_Type.dll
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Unsupported_Type/bin/Debug/net9.0/Unsupported_Type.pdb
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Unsupported_Type/obj/Debug/net9.0/Unsupported_Type.dll
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Unsupported_Type/obj/Debug/net9.0/refint/Unsupported_Type.dll
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Unsupported_Type/obj/Debug/net9.0/Unsupported_Type.pdb
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Unsupported_Type/obj/Debug/net9.0/Unsupported_Type.genruntimeconfig.cache
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Unsupported_Type/obj/Debug/net9.0/ref/Unsupported_Type.dll
