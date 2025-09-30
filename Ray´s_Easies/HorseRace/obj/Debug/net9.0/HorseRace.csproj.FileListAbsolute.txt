@@ -1,0 +1,15 @@
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ray´s_Easies/HorseRace/bin/Debug/net9.0/HorseRace
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ray´s_Easies/HorseRace/bin/Debug/net9.0/HorseRace.deps.json
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ray´s_Easies/HorseRace/bin/Debug/net9.0/HorseRace.runtimeconfig.json
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ray´s_Easies/HorseRace/bin/Debug/net9.0/HorseRace.dll
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ray´s_Easies/HorseRace/bin/Debug/net9.0/HorseRace.pdb
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ray´s_Easies/HorseRace/obj/Debug/net9.0/HorseRace.GeneratedMSBuildEditorConfig.editorconfig
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ray´s_Easies/HorseRace/obj/Debug/net9.0/HorseRace.AssemblyInfoInputs.cache
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ray´s_Easies/HorseRace/obj/Debug/net9.0/HorseRace.AssemblyInfo.cs
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ray´s_Easies/HorseRace/obj/Debug/net9.0/HorseRace.csproj.CoreCompileInputs.cache
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ray´s_Easies/HorseRace/obj/Debug/net9.0/HorseRace.sourcelink.json
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ray´s_Easies/HorseRace/obj/Debug/net9.0/HorseRace.dll
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ray´s_Easies/HorseRace/obj/Debug/net9.0/refint/HorseRace.dll
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ray´s_Easies/HorseRace/obj/Debug/net9.0/HorseRace.pdb
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ray´s_Easies/HorseRace/obj/Debug/net9.0/HorseRace.genruntimeconfig.cache
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ray´s_Easies/HorseRace/obj/Debug/net9.0/ref/HorseRace.dll

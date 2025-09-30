@@ -8,31 +8,54 @@ using System.Security.Cryptography.X509Certificates;
 
 namespace TwoSum
 {
-    public class Program
+    // public class Program
+    // {
+    //     public static void Main(String[] args)
+    //     {
+    //         int[] arrayts = new int[] { 2, 7, 11, 15 };
+    //         int target = 9;
+    //         FindIndices(arrayts, target);
+
+
+    //     }
+
+    //     public static int[] FindIndices(int[] arraysillo, int Target)
+    //     {
+    //         for (int i = 0; i < arraysillo.Length; i++)
+    //         {
+    //             for (int j = i + 1; j < arraysillo.Length; j++)
+    //             {
+    //                 if (arraysillo[i] + arraysillo[j] == Target)
+    //                 {
+    //                     Console.WriteLine($"los indices que dan {Target} son {i}, {j}");
+    //                     return new int[] { i, j };
+    //                 }
+    //             }
+    //         }
+    //         return Array.Empty<int>();
+    //     }
+    // }
+
+        public class Solution
+        
     {
-        public static void Main(String[] args)
+        public static int[] TwoSum(int[] nums, int target)
         {
-            int[] arrayts = new int[] { 2, 7, 11, 15 };
-            int target = 9;
-            FindIndices(arrayts, target);
+            List<int> indices = new List<int>();
 
-
-        }
-
-        public static int[] FindIndices(int[] arraysillo, int Target)
-        {
-            for (int i = 0; i < arraysillo.Length; i++)
+            for (int i = 0; i < nums.Length; i++)
             {
-                for (int j = i + 1; j < arraysillo.Length; j++)
+                for (int j = nums.Length - 1; j > i; i--)
                 {
-                    if (arraysillo[i] + arraysillo[j] == Target)
+                    if (nums[i] + nums[j] == target)
                     {
-                        Console.WriteLine($"los indices que dan {Target} son {i}, {j}");
-                        return new int[] { i, j };
+                        indices.Add(i);
+                        indices.Add(j);
+                        return indices.ToArray();
                     }
                 }
             }
-            return Array.Empty<int>();
+             return new int[0];
         }
     }
 }

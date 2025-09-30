@@ -1,0 +1,15 @@
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Merge_Two_Sorted_Lists/bin/Debug/net9.0/Merge_Two_Sorted_Lists
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Merge_Two_Sorted_Lists/bin/Debug/net9.0/Merge_Two_Sorted_Lists.deps.json
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Merge_Two_Sorted_Lists/bin/Debug/net9.0/Merge_Two_Sorted_Lists.runtimeconfig.json
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Merge_Two_Sorted_Lists/bin/Debug/net9.0/Merge_Two_Sorted_Lists.dll
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Merge_Two_Sorted_Lists/bin/Debug/net9.0/Merge_Two_Sorted_Lists.pdb
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Merge_Two_Sorted_Lists/obj/Debug/net9.0/Merge_Two_Sorted_Lists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Merge_Two_Sorted_Lists/obj/Debug/net9.0/Merge_Two_Sorted_Lists.AssemblyInfoInputs.cache
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Merge_Two_Sorted_Lists/obj/Debug/net9.0/Merge_Two_Sorted_Lists.AssemblyInfo.cs
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Merge_Two_Sorted_Lists/obj/Debug/net9.0/Merge_Two_Sorted_Lists.csproj.CoreCompileInputs.cache
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Merge_Two_Sorted_Lists/obj/Debug/net9.0/Merge_Two_Sorted_Lists.sourcelink.json
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Merge_Two_Sorted_Lists/obj/Debug/net9.0/Merge_Two_Sorted_Lists.dll
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Merge_Two_Sorted_Lists/obj/Debug/net9.0/refint/Merge_Two_Sorted_Lists.dll
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Merge_Two_Sorted_Lists/obj/Debug/net9.0/Merge_Two_Sorted_Lists.pdb
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Merge_Two_Sorted_Lists/obj/Debug/net9.0/Merge_Two_Sorted_Lists.genruntimeconfig.cache
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Merge_Two_Sorted_Lists/obj/Debug/net9.0/ref/Merge_Two_Sorted_Lists.dll

@@ -1,0 +1,15 @@
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ray´s_Easies/Task_Counter/bin/Debug/net9.0/Task_Counter
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ray´s_Easies/Task_Counter/bin/Debug/net9.0/Task_Counter.deps.json
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ray´s_Easies/Task_Counter/bin/Debug/net9.0/Task_Counter.runtimeconfig.json
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ray´s_Easies/Task_Counter/bin/Debug/net9.0/Task_Counter.dll
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ray´s_Easies/Task_Counter/bin/Debug/net9.0/Task_Counter.pdb
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ray´s_Easies/Task_Counter/obj/Debug/net9.0/Task_Counter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ray´s_Easies/Task_Counter/obj/Debug/net9.0/Task_Counter.AssemblyInfoInputs.cache
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ray´s_Easies/Task_Counter/obj/Debug/net9.0/Task_Counter.AssemblyInfo.cs
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ray´s_Easies/Task_Counter/obj/Debug/net9.0/Task_Counter.csproj.CoreCompileInputs.cache
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ray´s_Easies/Task_Counter/obj/Debug/net9.0/Task_Counter.sourcelink.json
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ray´s_Easies/Task_Counter/obj/Debug/net9.0/Task_Counter.dll
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ray´s_Easies/Task_Counter/obj/Debug/net9.0/refint/Task_Counter.dll
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ray´s_Easies/Task_Counter/obj/Debug/net9.0/Task_Counter.pdb
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ray´s_Easies/Task_Counter/obj/Debug/net9.0/Task_Counter.genruntimeconfig.cache
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/Ray´s_Easies/Task_Counter/obj/Debug/net9.0/ref/Task_Counter.dll
