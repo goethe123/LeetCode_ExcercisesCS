@@ -1,0 +1,15 @@
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/SearchInsert/obj/Debug/net9.0/SearchInsert.GeneratedMSBuildEditorConfig.editorconfig
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/SearchInsert/obj/Debug/net9.0/SearchInsert.AssemblyInfoInputs.cache
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/SearchInsert/obj/Debug/net9.0/SearchInsert.AssemblyInfo.cs
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/SearchInsert/obj/Debug/net9.0/SearchInsert.csproj.CoreCompileInputs.cache
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/SearchInsert/obj/Debug/net9.0/SearchInsert.sourcelink.json
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/SearchInsert/bin/Debug/net9.0/SearchInsert
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/SearchInsert/bin/Debug/net9.0/SearchInsert.deps.json
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/SearchInsert/bin/Debug/net9.0/SearchInsert.runtimeconfig.json
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/SearchInsert/bin/Debug/net9.0/SearchInsert.dll
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/SearchInsert/bin/Debug/net9.0/SearchInsert.pdb
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/SearchInsert/obj/Debug/net9.0/SearchInsert.dll
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/SearchInsert/obj/Debug/net9.0/refint/SearchInsert.dll
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/SearchInsert/obj/Debug/net9.0/SearchInsert.pdb
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/SearchInsert/obj/Debug/net9.0/SearchInsert.genruntimeconfig.cache
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/SearchInsert/obj/Debug/net9.0/ref/SearchInsert.dll

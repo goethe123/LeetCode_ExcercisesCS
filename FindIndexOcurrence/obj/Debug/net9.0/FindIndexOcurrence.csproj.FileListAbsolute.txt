@@ -1,0 +1,15 @@
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/FindIndexOcurrence/bin/Debug/net9.0/FindIndexOcurrence
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/FindIndexOcurrence/bin/Debug/net9.0/FindIndexOcurrence.deps.json
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/FindIndexOcurrence/bin/Debug/net9.0/FindIndexOcurrence.runtimeconfig.json
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/FindIndexOcurrence/bin/Debug/net9.0/FindIndexOcurrence.dll
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/FindIndexOcurrence/bin/Debug/net9.0/FindIndexOcurrence.pdb
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/FindIndexOcurrence/obj/Debug/net9.0/FindIndexOcurrence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/FindIndexOcurrence/obj/Debug/net9.0/FindIndexOcurrence.AssemblyInfoInputs.cache
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/FindIndexOcurrence/obj/Debug/net9.0/FindIndexOcurrence.AssemblyInfo.cs
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/FindIndexOcurrence/obj/Debug/net9.0/FindIndexOcurrence.csproj.CoreCompileInputs.cache
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/FindIndexOcurrence/obj/Debug/net9.0/FindIndexOcurrence.sourcelink.json
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/FindIndexOcurrence/obj/Debug/net9.0/FindIndexOcurrence.dll
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/FindIndexOcurrence/obj/Debug/net9.0/refint/FindIndexOcurrence.dll
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/FindIndexOcurrence/obj/Debug/net9.0/FindIndexOcurrence.pdb
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/FindIndexOcurrence/obj/Debug/net9.0/FindIndexOcurrence.genruntimeconfig.cache
+/Users/goetheramirezramirez/Desktop/LeetCode_ExcercisesCS/FindIndexOcurrence/obj/Debug/net9.0/ref/FindIndexOcurrence.dll
